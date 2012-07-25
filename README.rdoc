@@ -1,1 +1,1 @@
-This is a bookstore developed using Spree [www.spreecommerce.com]
+This is a bookstore developed by ketan deshmukh. https://github.com/ketan21
